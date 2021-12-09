@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burraco135
 - 👀 I’m interested in learning how to program better
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently studying Computer Science at University
 
 <!---
 burraco135/burraco135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

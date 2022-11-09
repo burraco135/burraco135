@@ -1,6 +1,4 @@
-![Hi](atragif.gif)
-
-- 👋 Hi, I’m @burraco135
+- 👋 Hi, I’m Ester
 - 👀 I’m interested in learning how to program better
 - 🌱 I’m currently studying Computer Science at University
 

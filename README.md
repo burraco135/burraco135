@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ester
-- 👀 I’m interested in learning how to program better
-- 🌱 I’m currently studying Computer Science at University
+- 👀 I’m interested in everything related to CompSci
+- 🌱 I’m currently studying Artificial Intelligence at University
 
 <!---
 burraco135/burraco135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
